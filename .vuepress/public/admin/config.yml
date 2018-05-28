@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: capriosa/vuepress-deploy
+  repo: puck3000/vuepress-deploy_rahel
   branch: master
 
 public_folder: ".vuepress/dist/"
